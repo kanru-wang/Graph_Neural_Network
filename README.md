@@ -7,9 +7,9 @@ Source:
 
 ## Chapter 3. Node Embeddings (Shallow encoding: Deepwalk and Node2Vec)
 <img src="image/image001.png" width="800"/>
-<img src="image/image022.png" width="800"/>
-<img src="image/image053.png" width="800"/>
-<img src="image/image054.png" width="800"/>
+<img src="image/image002.png" width="800"/>
+<img src="image/image003.png" width="800"/>
+<img src="image/image004.png" width="800"/>
 
 ## Chapter 5. Label Propagation for Node Classification
 
@@ -28,6 +28,7 @@ Can solve:
 Average neighbor’s previous layer embeddings and matrix multiply the weights. So as long as the embedding length is fixed, the model can handle any number of neighbors.
 
 <img src="image/image055.png" width="600"/>
+<img src="image/image057.png" width="400"/>
 <img src="image/image058.png" width="600"/>
 
 ## Chapter 7. Graph Neural Networks 2: Design Space
