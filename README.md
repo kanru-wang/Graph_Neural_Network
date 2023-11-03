@@ -27,13 +27,33 @@ Can solve:
 
 Average neighbor’s previous layer embeddings and matrix multiply the weights. So as long as the embedding length is fixed, the model can handle any number of neighbors.
 
-<img src="image/image055.png" width="600"/>
+<img src="image/image055.png" width="550"/>
+<img src="image/image056.png" width="400"/>
 <img src="image/image057.png" width="400"/>
 <img src="image/image058.png" width="600"/>
 
+-	CNN can be seen as a special GNN with fixed neighbor size and ordering.
+-	The size of the filter is pre-defined for a CNN.
+-	The advantage of GNN is it processes arbitrary graphs with different degrees for each node.
+-	CNN is not permutation equivariant. Switching the order of pixels will lead to different outputs.
+
+<img src="image/image061.png" width="400"/>
+
 ## Chapter 7. Graph Neural Networks 2: Design Space
 
+### Attention Mechanism
+
+<img src="image/image063.png" width="400"/>
+<img src="image/image064.png" width="450"/>
+<img src="image/image065.png" width="500"/>
+<img src="image/image066.png" width="550"/>
+
 ## Chapter 8. Applications of Graph Neural Networks
+
+<img src="image/image067.png" width="400"/>
+<img src="image/image068.png" width="400"/>
+<img src="image/image069.png" width="400"/>
+<img src="image/image070.png" width="450"/>
 
 ## Chapter 10. Knowledge Graph Embeddings
 
