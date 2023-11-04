@@ -54,8 +54,55 @@ Average neighbor’s previous layer embeddings and matrix multiply the weights. 
 <img src="image/image068.png" width="400"/>
 <img src="image/image069.png" width="400"/>
 <img src="image/image070.png" width="450"/>
+<img src="image/image071.png" width="450"/>
+<img src="image/image072.png" width="450"/>
+<img src="image/image073.png" width="450"/>
+<img src="image/image074.png" width="500"/>
+
+<br>
 
 ## Chapter 10. Knowledge Graph Embeddings
 
+<img src="image/image075.png" width="450"/>
+<img src="image/image076.png" width="550"/>
+<img src="image/image077.png" width="450"/>
+
+### Example: Link Prediction
+
+<img src="image/image079.png" width="500"/>
+<img src="image/image080.png" width="500"/>
+<img src="image/image081.png" width="550"/>
+
+<br>
+
 ## Chapter 13. GNNs for Recommender Systems
 
+<img src="image/image082.png" width="450"/>
+<img src="image/image083.png" width="400"/>
+
+### Binary Loss
+
+<img src="image/image084.png" width="350"/>
+<img src="image/image085.png" width="450"/>
+<img src="image/image086.png" width="350"/>
+
+### Bayesian Personalized Ranking (BPR) Loss
+
+Bayesian Personalized Ranking (BPR) Loss is a personalized surrogate loss that aligns better with the recall@K metric.
+
+<img src="image/image088.png" width="550"/>
+<img src="image/image089.png" width="450"/>
+<img src="image/image090.png" width="400"/>
+<img src="image/image091.png" width="400"/>
+<img src="image/image092.png" width="400"/>
+<img src="image/image093.png" width="400"/>
+<img src="image/image094.png" width="550"/>
+<img src="image/image095.png" width="220"/>
+<img src="image/image096.png" width="500"/>
+<img src="image/image097.png" width="450"/>
+<img src="image/image098.png" width="500"/>
+
+- LightGCN simplifies NGCF by removing the learnable parameters of GNNs.
+- Learnable parameters are all in the shallow input node embeddings.
+
+<img src="image/image100.png" width="450"/>
