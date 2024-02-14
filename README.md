@@ -1,3 +1,9 @@
+### View [this nbviewer mirrored repository](https://nbviewer.org/github/kanru-wang/Graph_Neural_Network), if you see formatting issues in the notebooks above.
+
+--------------------------------
+
+<br>
+
 # Graph Neural Network
 
 Source:
